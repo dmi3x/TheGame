@@ -32,7 +32,7 @@ $(() => {
     addCell(3, 1, V, '&#x1f33f;');
     addCell(3, 4, V, '&#x1f33f;');
     addCell(3, 2, H, '&#x1f343;');
-    addCell(4, 2, null, '&#x1f9a5;');
+    addCell(4, 2, null, '&#x1f98b;');
     addCell(4, 3, null, '&#x1f99c;');
     addCell(5, 1, null, '&#x1f98e;');
     addCell(5, 4, null, '&#x1f41b;');
